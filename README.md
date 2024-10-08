@@ -26,6 +26,8 @@ git checkout {branch_name}
 5. Make a folder with folder name {Name_Surname} and put in the necessary files.</b><br><br>
 6. Commit the changes on the branch<br><br>
 7. Push the branch to the repository using 
+my name is ankush
+
 
 ```sh
 git push origin {branch_name}
